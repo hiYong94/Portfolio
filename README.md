@@ -15,7 +15,7 @@
 - `2018-09` [Movie_Referral_Service](https://github.com/hiYong94/Movie_Referral_Service) : 크롤링을 활용한 웹과 앱에서의 영화 추천 서비스
 - `2019-03` []() : Spring 기반의 백석대학교 학생들을 위한 소모임 플랫폼 백석 커뮤니티
 - `2019-03` []() : Spring 기반의 네일아트 예약 서비스 웹 개발
-- `2019-09` []() : Kotlin을 활용한 NodeJs 기반의 장소 공유 카멜레존 안드로이드 앱 서비스
+- `2019-09` [ChameleZone_AppService](https://github.com/labstudydev/Chamelezone-Server) : Kotlin을 활용한 NodeJs 기반의 장소 공유 카멜레존 안드로이드 앱 서비스
 
 ## Personal Experience
 - `2018.05 ~ 2018.11` 프로보노 ICT 멘토링 - 멘티활동
