@@ -13,8 +13,8 @@
 - `2018-05` [Probono_ICT_Mentoring](https://github.com/hiYong94/Probono_ICT_Mentoring) : Spring 기반의 사회취약계층을 위한 부동산 관련 정보 제공 웹 개발
 - `2018-09` [RaspberryPI_Temperature_sensing](https://github.com/hiYong94/RaspberryPI_Temperature_sensing) : 온도센싱을 통한 안전한 도로관리 서비스
 - `2018-09` [Movie_Referral_Service](https://github.com/hiYong94/Movie_Referral_Service) : 크롤링을 활용한 웹과 앱에서의 영화 추천 서비스
-- `2019-03` []() : Spring 기반의 백석대학교 학생들을 위한 소모임 플랫폼 백석 커뮤니티
-- `2019-03` []() : Spring 기반의 네일아트 예약 서비스 웹 개발
+- `2019-03` [NailArt_Reservation_Service(GitLab)](https://gitlab.com/nailartdesignteam) : Spring 기반의 네일아트 예약 서비스 웹 개발
+- `2019-03` [BUMOIM_Capstone(GitLab)](https://gitlab.com/team_yongkwonjo_capstone-design/project_source) : Spring 기반의 백석대학교 학생들을 위한 소모임 플랫폼 백석 커뮤니티
 - `2019-09` [ChameleZone_AppService](https://github.com/labstudydev/Chamelezone-Server) : Kotlin을 활용한 NodeJs 기반의 장소 공유 카멜레존 안드로이드 앱 서비스
 
 ## Personal Experience
