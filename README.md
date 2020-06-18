@@ -3,7 +3,6 @@
 ## Contacts
 
 - 이메일 : chl9741@naver.com, chldydrjs94@gmail.com
-- 작성자 : 최용권
 - Github : [hiYong94](https://github.com/hiYong94)
 - GitLab : [chldydrnjs94](https://gitlab.com/chldydrnjs94)
 
