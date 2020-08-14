@@ -17,6 +17,7 @@
 - `2018-05` [IC-PC_Introduce_Web](https://github.com/hiYong94/IC-PC_Introduce_Web) :백석대학교 정보통신학부 선교부 IC-PC 소개 및 홍보 홈페이지
 
 ## Personal Experience
+- `2020-07 ~ 현재` (주)케어닥 - 백엔드 개발자
 - `2019-07 ~ 2019-10` (주)넥스트리컨설팅 - 인턴쉽 활동
   - 사내 교육 프로그램 이수
 - `2019.07` 제7회 K-Hackathon VR&AR 앱 개발 챌린지 참여
